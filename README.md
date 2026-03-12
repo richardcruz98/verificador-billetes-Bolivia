@@ -15,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# verificador-billetes-Bolivia
+Verificador de billetes, es una aplicación móvil oficial no oficial (de referencia) diseñada para ayudar a comerciantes, cajeros, recolectores de dinero y público en general a verificar de manera rápida y sencilla si un billete de boliviano se encuentra dentro de los rangos de serie habilitados y emitidos por el Banco Central de Bolivia (BCB).
+
